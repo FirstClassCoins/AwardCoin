@@ -1,5 +1,5 @@
 
-# Deutsche eMark [DEM] #
+# awardcrypto [AWC] #
 
 ### Version 1.5.0 ###
 - Lots of Security Patches
