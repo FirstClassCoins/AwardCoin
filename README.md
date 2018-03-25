@@ -20,7 +20,7 @@ Vesion < 1.4.0 will no longer work.
 (you must reload DB, if you don´t want, version 1.1.0 works fine (BerkleyDB). Download [from here](https://github.com/emarkproject/DEM/releases ))
 do not use Version 1.2.x. You can loose Coins
 
-### eMark specification ###
+### awardcrypto specification ###
 - SHA256D, Proof of Work + Proof of Stake
 - max 210 Million Proof of Work Coins
 - 3.8% annual stake per year, 30 Days Coin-Age required
